@@ -1,0 +1,18 @@
+{
+  "environment": {
+    "id": "teste",
+    "name": "teste",
+    "template": "howtomecm-website",
+    "created": "2025-09-21T12:28:17.698Z",
+    "repository": {
+      "owner": "satorres3",
+      "repo": "teste-695689"
+    }
+  },
+  "env": {
+    "NEXT_PUBLIC_ENVIRONMENT_ID": "teste",
+    "NEXT_PUBLIC_ENVIRONMENT_NAME": "teste",
+    "NEXT_PUBLIC_CMS_URL": "https://cms.howtomecm.com",
+    "NEXT_PUBLIC_API_URL": "https://cms.howtomecm.com/api/environments/teste"
+  }
+}
